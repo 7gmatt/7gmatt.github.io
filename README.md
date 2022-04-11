@@ -27,7 +27,7 @@ I'm particularly interested in Fog cloud and edge computing in the cloud.<br>
 I'm also researching content offload WiFi APs that can access content<br>
 other than WiFi APs that access cellular lines and the Internet when there is heavy traffic.<br><br>
 
-
+<br><br>
 <h2>Projects</h2>
 2019 – 2020 JO SPOT 2 (BOOK SPOT!) Solved the problem of information disparity<br>
 due to economic disparity in developing countries. I used the Raspberry Pi to <br>
@@ -41,6 +41,7 @@ in the amount of Internet traffic in Tokyo due to an increase in tourists not on
 but also from overseas. And as a workaround, we considered WiFI AP, which features content offload, <br>
 which is the independent distributed information WiFi infrastructure JO SPOT.<br>
 
+<br>
 <h2>Research Experience</h2>
 February - March, 2021. Visiting Scholar at Missouri University of Science and Technology
 
