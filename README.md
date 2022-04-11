@@ -1,9 +1,7 @@
-# mattyoshida22.github.io
 <html>
   <head>
     
   </head>
-<br><br><br>
 <h1>Matt Yoshida</h1>
 
 <h3>Hello, I'm here. Welcome to my online home!</h3>
