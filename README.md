@@ -1,7 +1,7 @@
 # mattyoshida22.github.io
 <html>
   <head>
-    <meta name="google-site-verification" content="E67usaLIGGaOWHGBJy9lL9yrUDl80S4OdbKTHAiLXF0" />
+    
   </head>
 <h1>Matt Yoshida</h1>
 
@@ -13,15 +13,11 @@ Research area: Cloud, IoT, Network, Infrastructure<br><br>
 <b>Contact</b><br>
 Email: matt.yoshida@protonmail.ch <br><br>
 
+<br><br>
 
-<b>Direct Message on Twitter</b><br> 
-<a href="https://twitter.com/messages/compose?recipient_id=undefined&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-screen-name="https://twitter.com/Matt8Yoshida" data-show-count="false">Message @https://twitter.com/Matt8Yoshida</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br><br>
-
-<a href="https://twitter.com/Matt8Yoshida?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Matt8Yoshida</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br><br>
+<br><br>
 
 <h2>NEWS</h2>
-<a class="twitter-timeline" href="https://twitter.com/Matt8Yoshida?ref_src=twsrc%5Etfw">Tweets by Matt8Yoshida</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 <h2>Research Interests</h2>
 I am researching cloud and IoT.  I want to help society with cloud technology.<br>
@@ -54,11 +50,8 @@ February - March, 2021. Visiting Scholar at Missouri University of Science and T
 <h2>Contact</h2>
 Email: matt.yoshida@protonmail.ch <br><br>
 
-<b>Direct Message on Twitter<b><br> 
-<a href="https://twitter.com/messages/compose?recipient_id=undefined&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-screen-name="https://twitter.com/Matt8Yoshida" data-show-count="false">Message @https://twitter.com/Matt8Yoshida</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br><br>
   
+<br><br>
 
-<a href="https://twitter.com/Matt8Yoshida?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Matt8Yoshida</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br><br>
-
-Last update: 28th,March.2022
+Last update: 1th,April.2022
