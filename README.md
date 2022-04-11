@@ -14,8 +14,6 @@ Email: matt.yoshida@protonmail.ch <br><br>
 
 <br><br>
 
-<br><br>
-
 <h2>NEWS</h2>
 <br><br>
 <h2>Research Interests</h2>
@@ -39,13 +37,13 @@ in the amount of Internet traffic in Tokyo due to an increase in tourists not on
 but also from overseas. And as a workaround, we considered WiFI AP, which features content offload, <br>
 which is the independent distributed information WiFi infrastructure JO SPOT.<br>
 
-<br>
+<br><br>
 <h2>Research Experience</h2>
 February - March, 2021. Visiting Scholar at Missouri University of Science and Technology
 
-<br><br>
+<br><br><br>
 <h2>Publication</h2>
-<br>
+<br><br>
 
 <h2>Contact</h2>
 Email: matt.yoshida@protonmail.ch <br><br>
